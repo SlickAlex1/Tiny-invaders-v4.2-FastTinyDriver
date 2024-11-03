@@ -47,7 +47,7 @@ Because there were still some bytes left, I added more features ;)
   always patrol between the screen borders. Does this make the game too easy?
 
 # Current Size (when using the highly compatible 'ssd1306xled' version from [https://github.com/tejashwikalptaru/ssd1306xled]):
-  8186 bytes (still 6 bytes left, I had to use assembly language for the decompression routine) using the marvelous 
+  8184 bytes (still 8 bytes left, I had to use assembly language for the decompression routine) using the marvelous 
   'ATTinyCore' from Spence Konde (v1.5.2) 
   [https://github.com/SpenceKonde/ATTinyCore]
   
