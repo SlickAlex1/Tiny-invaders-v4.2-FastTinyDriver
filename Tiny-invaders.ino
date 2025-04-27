@@ -1,4 +1,4 @@
-//   >>>>>  T-I-N-Y  I-N-V-A-D-E-R-S v3.0 for ATTINY85  GPLv3 <<<<
+//   >>>>>  T-I-N-Y  I-N-V-A-D-E-R-S v4.2 for ATTINY85  GPLv3 <<<<
 //						Tinyjoypad rev2 compatible
 //                   Programmer: Daniel C 2018-2020
 //                   Enhancements: Sven B 2021
@@ -20,7 +20,12 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 //the code work at 16MHZ internal
-//and use ssd1306xled Library for SSD1306 oled display 128x64
+//and use SSD1306 oled display 128x64
+
+
+
+//Adapted for FastTinyDriver by SlickAlex
+//This version: uses FastTinyDriver for the SSD1306 OLED;
 
 // Uncomment the following line if the resulting code exceeds the flash size.
 // You will lose the high score being displayed during the title loop.
